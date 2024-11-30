@@ -7,13 +7,13 @@ git 참고
    
    터미널에서 아래 명령어를 입력해 현재 브랜치를 확인
 
-   git branch
+    git branch
    
 3. 브랜치 전환
    
    만약 브랜치가 존재하면 아래 명령어로 전환
 
-   git checkout main(예시)
+     git checkout main(예시)
    
    브랜치가 없으면 생성 후 전환
    
